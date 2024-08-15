@@ -10,7 +10,7 @@
   }
 
   .book-card:hover {
-    box-shadow: 0 1px 15px var(--light-pink);
+    box-shadow: 0 4px 15px rgba(211, 98, 165, 0.3);
 
   }
 
