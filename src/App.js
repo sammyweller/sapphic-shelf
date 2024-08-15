@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Container from 'react-bootstrap/Container';
+import MainView from './components/main-view/main-view';
+import AllBooks from './components/all-books/all-books';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "./index.css";
 
-function App() {
+function BookApp() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Container>
+        <nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/all-books">All Books</a></li>
+          </ul>
+        </nav>
+        
+        <Routes>
+          <Route path="/" element={<MainView />} />
+          <Route path="/all-books" element={<AllBooks />} /> 
+        </Routes>
+      </Container>
+    </Router>
   );
 }
 
-export default App;
+export default BookApp;

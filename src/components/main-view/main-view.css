@@ -1,0 +1,23 @@
+.mainview-div {
+  max-width: 1100px; 
+  margin: 0 auto; 
+  padding: 20px;
+}
+
+  .book-list .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .book-list .col {
+    display: flex;
+  }
+
+  .mainview-div h2 {
+    text-align:center;
+  }
+
+  .header {
+    text-align: center; 
+    margin: 40px 0 80px 0;
+  }

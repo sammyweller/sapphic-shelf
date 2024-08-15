@@ -1,0 +1,188 @@
+[
+    {
+      "id": 1,
+      "title": "Gideon the Ninth",
+      "authors": ["Tamsyn Muir"],
+      "genres": ["Science Fiction", "Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546870952i/42036538.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Harrow the Ninth",
+      "authors": ["Tamsyn Muir"],
+      "genres": ["Science Fiction", "Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602323622i/39325105.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nona the Ninth",
+      "authors": ["Tamsyn Muir"],
+      "genres": ["Science Fiction", "Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643298298i/58662507.jpg"
+    },
+    {
+      "id": 4,
+      "title": "This is How You Lose the Time War",
+      "authors": ["Amal El-Mohtar", "Max Gladstone"],
+      "genres": ["Science Fiction", "Romance"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653185078i/43352954.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mistakes Were Made",
+      "authors": ["Meryl Wilsner"],
+      "genres": ["Romance", "Contemporary", "Spicy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656314236i/59808269.jpg",
+      "amazon": "https://amzn.to/4dIBFbo"
+    },
+    {
+      "id": 6,
+      "title": "Dowry of Blood",
+      "authors": ["S.T. Gibson"],
+      "genres": ["Horror", "Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663707732i/60521937.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Delilah Green Doesn't Care",
+      "series": "Bright Falls",
+      "authors": ["Ashley Herring Blake"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643753957i/54756850.jpg",
+      "amazon": "https://amzn.to/3M4F1cG"
+    },
+    {
+      "id": 8,
+      "title": "The Measure",
+      "authors": ["Nikki Erlick"],
+      "genres": ["Science Fiction", "Fantasy", "Dystopian"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656427584i/58884736.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fortuna",
+      "series": "Nova Vita Protocol",
+      "authors": ["Kristyn Merbeth"],
+      "genres": ["Science Fiction", "Space Opera"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567605663i/43879093.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Priory of the Orange Tree",
+      "series": "The Roots of Chaos",
+      "authors": ["Samantha Shannon"],
+      "genres": ["Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700221964i/40275288.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Light from Uncommon Stars",
+      "authors": ["Ryka Aoki"],
+      "genres": ["Science Fiction", "Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626721795i/56179360.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Stars are Legion",
+      "authors": ["Kameron Hurley"],
+      "genres": ["Science Fiction"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455431216i/29090844.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Space Between Worlds",
+      "authors": ["Micaiah Johnson"],
+      "genres": ["Science Fiction", "Dystopian"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585293595l/43301353.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Crier's War",
+      "authors": ["Nina Varela"],
+      "genres": ["Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553803423i/41951626.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Unbroken",
+      "series": "Magic of the Lost",
+      "authors": ["C.L. Clark"],
+      "genres": ["Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595284077i/54467051.jpg"
+    },
+    {
+      "id": 16,
+      "title": "The Faithless",
+      "series": "Magic of the Lost",
+      "authors": ["C.L. Clark"],
+      "genres": ["Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669836384i/59007314.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Astrid Parker Doesn't Fail",
+      "series": "Bright Falls",
+      "authors": ["Ashley Herring Blake"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646147245i/58800142.jpg",
+      "Amazon": "https://amzn.to/4crcVTO"
+    },
+    {
+      "id": 18,
+      "title": "Iris Kelly Doesn't Date",
+      "series": "Bright Falls",
+      "authors": ["Ashley Herring Blake"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675361271i/61087733.jpg",
+      "Amazon": "https://amzn.to/46JnFvL"
+    },
+    {
+      "id": 19,
+      "title": "Once Last Stop",
+      "authors": ["Casey McQuiston"],
+      "genres": ["Romance", "Time Travel", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598019346i/54860443.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Faebound",
+      "authors": ["A.K. Faulkner"],
+      "genres": ["Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1695755226i/157981739.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Our Wives Under The Sea",
+      "authors": ["Julia Armfield"],
+      "genres": ["Horror", "Literary Fiction"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1722881053i/58659343.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Life in Bits",
+      "authors": ["Harper Bliss"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544559154i/43198819.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Kiss Her Once For Me",
+      "authors": ["Alison Cochrun"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664988561i/60321485.jpg"
+    },
+    {
+      "id": 24,
+      "title": "When Women Were Dragons",
+      "authors": ["Kelly Barnhill"],
+      "genres": ["Fantasy", "Historical Fiction"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636583955i/58783802.jpg"
+    },
+    {
+      "id": 25,
+      "title": "The Jasmine Throne",
+      "authors": ["Tasha Suri"],
+      "genres": ["Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603885729i/50523477.jpg"
+    }
+  ]
