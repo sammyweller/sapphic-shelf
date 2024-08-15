@@ -26,9 +26,9 @@ function MainView() {
   return (
     <div className="mainview-div">
       <section className="header">
-        <h1><span>Sapphic</span> Shelf</h1>
-        <p>A sapphic book for every mood.</p>
-        <Link to="/all-books">
+        <h1>A sapphic book for every mood.</h1>
+        <p>We're on a mission to highlight and celebrate sapphic stories, bringing their powerful and diverse voices to the forefront <span className="header-span">where they deserve to be.</span></p>
+        <Link to="/all-books" className="button">
           View all books
         </Link>
       </section> 
@@ -43,9 +43,11 @@ function MainView() {
             </Col>
           ))}
         </Row>
-        <Link to="/all-books#fantasy-section">
-          View all Fantasy Books
-        </Link>
+        <div className="button-div">
+          <Link to="/all-books#fantasy-section" className="button">
+            View all Fantasy Books
+          </Link>
+        </div>
       </section>
 
       {/* Horror Section */}
@@ -58,9 +60,11 @@ function MainView() {
             </Col>
           ))}
         </Row>
-        <Link to="/all-books#horror-section">
-          View all Horror Books
-        </Link>
+        <div className="button-div">
+          <Link to="/all-books#horror-section" className="button">
+            View all Horror Books
+          </Link>
+        </div>
       </section>
 
       {/* Romance Section */}
@@ -73,9 +77,11 @@ function MainView() {
             </Col>
           ))}
         </Row>
-        <Link to="/all-books#romance-section">
-          View all Romance Books
-        </Link>
+        <div className="button-div">
+          <Link to="/all-books#romance-section" className="button">
+            View all Romance Books
+          </Link>
+        </div>
       </section>
 
       {/* Science Fiction Section */}
@@ -88,9 +94,11 @@ function MainView() {
             </Col>
           ))}
         </Row>
-        <Link to="/all-books#scifi-section">
-          View all Science Fiction Books
-        </Link>
+        <div className="button-div">
+          <Link to="/all-books#scifi-section" className="button">
+            View all Science Fiction Books
+          </Link>
+        </div>
       </section>
 
       {/* Spicy Section */}
@@ -103,9 +111,11 @@ function MainView() {
             </Col>
           ))}
         </Row>
-        <Link to="/all-books#spicy-section">
-          View all Spicy Books
-        </Link>
+        <div className="button-div">
+          <Link to="/all-books#spicy-section" className="button">
+            View all Spicy Books
+          </Link>
+        </div>
       </section>
 
     </div>
