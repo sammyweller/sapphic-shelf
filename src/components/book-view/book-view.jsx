@@ -1,6 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import books from '../../data/books.json';
+import './book-view.css';
 
 function BookView() {
   const { id } = useParams(); // Get the book ID from the URL
@@ -11,12 +12,25 @@ function BookView() {
   }
 
   return (
-    <div>
-      <h1>{book.title}</h1>
-      <p>Author: {book.authors.join(', ')}</p>
-      <p>Genres: {book.genres.join(', ')}</p>
-      <p>Description: {book.description}</p>
-      {/* Add more details as needed */}
+    <div className="book-view">
+      <div className="book-view-details">
+        <h1>{book.title}</h1>
+        <p>By: {book.authors.join(', ')}</p>
+        <p>Genres: {book.genres.join(', ')}</p>
+        <p className="book-view-description">{book.description}</p>
+        <div className="buy-book">
+          <a href={book.amazon} target="_blank" rel="noopener noreferrer" className="button">
+            Buy on Amazon
+          </a>
+          <span>or</span>
+          <a href={"https://bookshop.org/pages/bookstores"} target="_blank" rel="noopener noreferrer" className="">
+            Find a local book store
+          </a>
+        </div>
+      </div>
+      <div className="book-view-cover">
+        <img src={book.imageUrl} alt={`${book.title} cover`} />
+      </div>
     </div>
   );
 }

@@ -1,0 +1,25 @@
+.book-view {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    gap: 40px;
+}
+
+
+.book-view-cover img {
+    width: 270px;
+    border-radius: 20px;
+}
+
+.buy-book {
+    gap: 20px;
+    display:flex;
+    align-items:center;
+}
+
+.book-view-description {
+    font-size: 18px;
+}
