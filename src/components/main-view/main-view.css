@@ -10,7 +10,7 @@
 
 .header {
   text-align: center;
-  margin: 60px 0 100px 0;
+  margin: 60px 0 40px 0;
 } 
 
 .header p {
@@ -47,6 +47,6 @@
 }
 
 
-.book-list .button {
+.main-view .button {
   margin: 40px 0;
 }

@@ -14,6 +14,7 @@ function BookApp() {
         <a className="nav-logo" href="/"><span>Sapphic</span> Shelf</a>
           <ul>
             <li><a href="/">Home</a></li>
+            <li><a href="/">About us</a></li>
           </ul>
         </nav>
         

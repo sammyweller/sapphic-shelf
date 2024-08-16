@@ -41,6 +41,7 @@ body h2 {
  text-decoration: none;
  text-align: center;
  font-weight: bold;
+ border: none;
 }
 
 /* Nav */
