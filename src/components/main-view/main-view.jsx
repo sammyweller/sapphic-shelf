@@ -44,7 +44,7 @@ function MainView() {
           ))}
         </Row>
         <div className="button-div">
-          <Link to="/all-books#fantasy-section" className="button">
+          <Link to="/all-books" className="button">
             View all Fantasy Books
           </Link>
         </div>
@@ -61,7 +61,7 @@ function MainView() {
           ))}
         </Row>
         <div className="button-div">
-          <Link to="/all-books#horror-section" className="button">
+          <Link to="/all-books" className="button">
             View all Horror Books
           </Link>
         </div>
@@ -78,7 +78,7 @@ function MainView() {
           ))}
         </Row>
         <div className="button-div">
-          <Link to="/all-books#romance-section" className="button">
+          <Link to="/all-books" className="button">
             View all Romance Books
           </Link>
         </div>
@@ -95,7 +95,7 @@ function MainView() {
           ))}
         </Row>
         <div className="button-div">
-          <Link to="/all-books#scifi-section" className="button">
+          <Link to="/all-books" className="button">
             View all Science Fiction Books
           </Link>
         </div>
@@ -112,7 +112,7 @@ function MainView() {
           ))}
         </Row>
         <div className="button-div">
-          <Link to="/all-books#spicy-section" className="button">
+          <Link to="/all-books" className="button">
             View all Spicy Books
           </Link>
         </div>
