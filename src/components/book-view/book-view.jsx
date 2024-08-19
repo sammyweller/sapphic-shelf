@@ -16,8 +16,17 @@ function BookView() {
       <div className="book-view-details">
         <h1>{book.title}</h1>
         <p>By: {book.authors.join(', ')}</p>
-        <p>Genres: {book.genres.join(', ')}</p>
-        <p className="book-view-description">{book.description}</p>
+        <p className="book-view-genres">
+          {/* <span>Genres:</span> */}
+          <span className="genre-bubbles">
+            {book.genres.map((genre, index) => (
+              <span key={index} className="genre-bubble">{genre}</span>
+            ))}
+          </span>
+        </p>
+        <p className="book-view-description">        {book.description.split('\n\n').map((paragraph, index) => (
+          <p key={index}>{paragraph}</p>
+        ))}</p>
         <div className="buy-book">
           <a href={book.amazon} target="_blank" rel="noopener noreferrer" className="button">
             Buy on Amazon

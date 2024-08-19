@@ -1,0 +1,17 @@
+.button.btn.btn-primary {
+    padding: 10px 20px;
+    background: var(--dark-pink);
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border: none;
+}
+
+input[type="checkbox"]:checked,
+input[type="checkbox"]:checked:focus,
+input[type="checkbox"]:checked:active,
+input[type="checkbox"]:checked:hover   {
+    accent-color: var(--light-pink);
+}

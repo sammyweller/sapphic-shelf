@@ -8,6 +8,10 @@
     gap: 40px;
 }
 
+.book-view-cover {
+    align-items: center;
+    display: flex;
+}
 
 .book-view-cover img {
     width: 270px;
@@ -18,8 +22,34 @@
     gap: 20px;
     display:flex;
     align-items:center;
+    margin-top: 40px;
 }
 
-.book-view-description {
+.book-view p {
     font-size: 18px;
 }
+
+
+.book-view-genres span {
+    color: black;
+    font-weight: 200;
+    padding-right: 10px;
+}
+
+.genre-bubbles {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap; 
+  }
+
+  .genre-bubbles span {
+    color: var(--dark-pink);
+    font-weight: 800;
+  }
+  
+  .genre-bubble {
+    background: var(--button-bg);
+    border-radius: 20px;
+    padding: 4px 8px;
+    font-size: 14px;
+  }

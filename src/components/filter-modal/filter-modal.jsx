@@ -24,7 +24,7 @@ function FilterModal({ show, handleClose, genres, selectedGenres, handleGenreCha
               </div>
             ))}
           </div>
-          <Button type="submit" variant="primary" onClick={handleClose}>
+          <Button type="submit" variant="primary" className="button" onClick={handleClose}>
             Show Books
           </Button>
         </form>
