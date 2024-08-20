@@ -40,8 +40,8 @@ function AllBooks({ submitted, filteredBooks }) {
           dataLength={visibleBooks.length}
           next={fetchMoreBooks}
           hasMore={hasMore}
-          loader={<h4>Loading more books...</h4>}
-          endMessage={<p>You've reached the end!</p>}
+          loader={<h4 className="loading-more">Loading more books...</h4>}
+          endMessage={<p className="end-message">You've reached the end! Wow...</p>}
         >
           <section className="filtered-books">
             <Row xs={1} sm={2} md={3} lg={4} className="g-4 justify-content-center custom-row-gap">

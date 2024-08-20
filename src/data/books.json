@@ -2,7 +2,9 @@
     {
       "id": 1,
       "title": "Gideon the Ninth",
-      "series": "The Locked Tomb #1",
+      "series": "Locked Tomb",
+      "seriesPosition": 1,
+      "seriesId": 1,
       "authors": ["Tamsyn Muir"],
       "genres": ["Science Fiction", "Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546870952i/42036538.jpg",
@@ -12,7 +14,9 @@
     {
       "id": 2,
       "title": "Harrow the Ninth",
-      "series": "The Locked Tomb #2",
+      "series": "Locked Tomb",
+      "seriesPosition": 2,
+      "seriesId": 1,
       "authors": ["Tamsyn Muir"],
       "genres": ["Science Fiction", "Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602323622i/39325105.jpg",
@@ -22,7 +26,9 @@
     {
       "id": 3,
       "title": "Nona the Ninth",
-      "series": "The Locked Tomb #3",
+      "series": "Locked Tomb",
+      "seriesPosition": 3,
+      "seriesId": 1,
       "authors": ["Tamsyn Muir"],
       "genres": ["Science Fiction", "Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643298298i/58662507.jpg",
@@ -33,7 +39,7 @@
       "id": 4,
       "title": "This is How You Lose the Time War",
       "authors": ["Amal El-Mohtar", "Max Gladstone"],
-      "genres": ["Science Fiction", "Romance"],
+      "genres": ["Science Fiction", "Romance", "Time Travel"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653185078i/43352954.jpg",
       "amazon": "https://amzn.to/3YOKOeb",
       "description": "Among the ashes of a dying world, an agent of the Commandant finds a letter. It reads: Burn before reading. \n\nThus begins an unlikely correspondence between two rival agents hellbent on securing the best possible future for their warring factions. \n\nNow, what began as a taunt, a battlefield boast, grows into something more. Something epic. Something romantic. Something that could change the past and the future. Except the discovery of their bond would mean death for each of them. There's still a war going on, after all.\n\n And someone has to win that war."
@@ -59,7 +65,9 @@
     {
       "id": 7,
       "title": "Delilah Green Doesn't Care",
-      "series": "Bright Falls #1",
+      "series": "Bright Falls",
+      "seriesPosition": 1,
+      "seriesId": 2,
       "authors": ["Ashley Herring Blake"],
       "genres": ["Romance", "Contemporary"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643753957i/54756850.jpg",
@@ -78,7 +86,9 @@
     {
       "id": 9,
       "title": "Fortuna",
-      "series": "Nova Vita Protocol #1",
+      "series": "Nova Vita Protocol ",
+      "seriesPosition": 1,
+      "seriesId": 8,
       "authors": ["Kristyn Merbeth"],
       "genres": ["Science Fiction", "Space Opera"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567605663i/43879093.jpg",
@@ -88,7 +98,9 @@
     {
       "id": 10,
       "title": "The Priory of the Orange Tree",
-      "series": "The Roots of Chaos #1",
+      "series": "Roots of Chaos",
+      "seriesPosition": 1,
+      "seriesId": 3,
       "authors": ["Samantha Shannon"],
       "genres": ["Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700221964i/40275288.jpg",
@@ -101,7 +113,8 @@
       "authors": ["Ryka Aoki"],
       "genres": ["Science Fiction", "Fantasy", "Romance"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626721795i/56179360.jpg",
-      "amazon": "https://amzn.to/4dsgKtf"
+      "amazon": "https://amzn.to/4dsgKtf",
+      "description": "A defiantly joyful adventure set in California's San Gabriel Valley, with cursed violins, Faustian bargains, and queer alien courtship over fresh-made donuts. \n\nShizuka Satomi made a deal with the to escape damnation, she must entice seven other violin prodigies to trade their souls for success. She has already delivered six. When Katrina Nguyen, a young transgender runaway, catches Shizuka's ear with her wild talent, Shizuka can almost feel the curse lifting. She's found her final candidate. But in a donut shop off a bustling highway in the San Gabriel Valley, Shizuka meets Lan Tran, retired starship captain, interstellar refugee, and mother of four. Shizuka doesn't have time for crushes or coffee dates, what with her very soul on the line, but Lan's kind smile and eyes like stars might just redefine a soul's worth. And maybe something as small as a warm donut is powerful enough to break a curse as vast as the California coastline. As the lives of these three women become entangled by chance and fate, a story of magic, identity, curses, and hope begins, and a family worth crossing the universe for is found."
     },
     {
       "id": 12,
@@ -109,7 +122,8 @@
       "authors": ["Kameron Hurley"],
       "genres": ["Science Fiction", "Dystopian"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455431216i/29090844.jpg",
-      "amazon": "https://amzn.to/3WN0fB6"
+      "amazon": "https://amzn.to/3WN0fB6",
+      "description": "Somewhere on the outer rim of the universe, a mass of decaying world-ships known as the Legion is traveling in the seams between the stars. For generations, a war for control of the Legion has been waged, with no clear resolution.  As worlds continue to die, a desperate plan is put into motion. \n\nZan wakes with no memory, prisoner of a people who say they are her family. She is told she is their salvation - the only person capable of boarding the Mokshi, a world-ship with the power to leave the Legion. But Zan's new family is not the only one desperate to gain control of the prized ship. Zan finds that she must choose sides in a genocidal campaign that will take her from the edges of the Legion's gravity well to the very belly of the world. \n\nZan will soon learn that she carries the seeds of the Legion's destruction - and its possible salvation. But can she and her ragtag band of followers survive the horrors of the Legion and its people long enough to deliver it?"
     },
     {
       "id": 13,
@@ -117,52 +131,68 @@
       "authors": ["Micaiah Johnson"],
       "genres": ["Science Fiction", "Dystopian"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585293595l/43301353.jpg",
-      "amazon": "https://amzn.to/3M99qXt"
+      "amazon": "https://amzn.to/3M99qXt",
+      "description": "Multiverse travel is finally possible, but there’s just one catch: No one can visit a world where their counterpart is still alive. Enter Cara, whose parallel selves happen to be exceptionally good at dying—from disease, turf wars, or vendettas they couldn’t outrun. Cara’s life has been cut short on 372 worlds in total. \n\nOn this Earth, however, Cara has survived. Identified as an outlier and therefore a perfect candidate for multiverse travel, Cara is plucked from the dirt of the wastelands. Now she has a nice apartment on the lower levels of the wealthy and walled-off Wiley City. She works—and shamelessly flirts—with her enticing yet aloof handler, Dell, as the two women collect off-world data for the Eldridge Institute. She even occasionally leaves the city to visit her family in the wastes, though she struggles to feel at home in either place. So long as she can keep her head down and avoid trouble, Cara is on a sure path to citizenship and security. \n\nBut trouble finds Cara when one of her eight remaining doppelgängers dies under mysterious circumstances, plunging her into a new world with an old secret. What she discovers will connect her past and her future in ways she could have never imagined—and reveal her own role in a plot that endangers not just her world, but the entire multiverse."
     },
     {
       "id": 14,
       "title": "Crier's War",
-      "series": "Crier's War #1",
+      "series": "Crier's War",
+      "seriesPosition": 1,
+      "seriesId": 4,
       "authors": ["Nina Varela"],
       "genres": ["Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553803423i/41951626.jpg",
-      "amazon": "https://amzn.to/3yKx2i1"
+      "amazon": "https://amzn.to/3yKx2i1",
+      "description": "After the War of Kinds ravaged the kingdom of Rabu, the Automae, Designed to be the playthings of royals, took over the estates of their owners and bent the human race to their will. \n\nNow, Ayla, a human servant rising the ranks at the House of the Sovereign, dreams of avenging the death of her family… by killing the Sovereign’s daughter, Lady Crier. Crier, who was Made to be beautiful, to be flawless. And to take over the work of her father. \n\nCrier had been preparing to do just that—to inherit her father’s rule over the land. But that was before she was betrothed to Scyre Kinok, who seems to have a thousand secrets. That was before she discovered her father isn’t as benevolent as she thought. That was before she met Ayla. \n\nSet in a richly-imagined fantasy world, Nina Varela’s debut novel is a sweepingly romantic tale of love, loss and revenge, that challenges what it really means to be human."
     },
     {
       "id": 15,
       "title": "The Unbroken",
-      "series": "Magic of the Lost #1",
+      "series": "Magic of the Lost",
+      "seriesPosition": 1,
+      "seriesId": 5,
       "authors": ["C.L. Clark"],
       "genres": ["Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595284077i/54467051.jpg",
-      "amazon": "https://amzn.to/3X6ZGDl"
+      "amazon": "https://amzn.to/3X6ZGDl",
+      "description": "Touraine is a soldier. Stolen as a child and raised to kill and die for the empire, her only loyalty is to her fellow conscripts. But now, her company has been sent back to her homeland to stop a rebellion, and the ties of blood may be stronger than she thought. \n\nLuca needs a turncoat. Someone desperate enough to tiptoe the bayonet's edge between treason and orders. Someone who can sway the rebels toward peace, while Luca focuses on what really matters: getting her uncle off her throne. \n\nThrough assassinations and massacres, in bedrooms and war rooms, Touraine and Luca will haggle over the price of a nation. But some things aren't for sale."
     },
     {
       "id": 16,
       "title": "The Faithless",
-      "series": "Magic of the Lost #2",
+      "series": "Magic of the Lost",
+      "seriesPosition": 2,
+      "seriesId": 5,
       "authors": ["C.L. Clark"],
       "genres": ["Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669836384i/59007314.jpg",
-      "amazon": "https://amzn.to/4fPo6sw"
+      "amazon": "https://amzn.to/4fPo6sw",
+      "description": "In the second installment of C.L. Clark's Magic of the Lost trilogy, soldier Touraine and princess Luca must return to Balladaire to reclaim Luca's throne and to face the consequences of dismantling an empire. \n\nThe rebels have won, and the empire is withdrawing from Qazal. But undoing the tangled web that binds the two nations won't be easy, and Touraine and Luca will face their greatest challenge yet. \n\nLuca needs to oust her uncle from the Balladairan throne once and for all and take her rightful place as Queen. But he won't let go of power so easily. When he calls for a \"Trial of Competence\" and Luca's allies start disappearing from her side, she will have to prove her might. And she knows someone who can help... \n\nTouraine has found a home in the newly free country of Qazal. However, she soon realizes that leading a country and leading a revolution are two very different tasks. And, even more importantly, if Luca won't keep her promises, the Qazali could end up right back where they started. \n\n Together, the two women must overcome their enemies, their history, and their heartbreak in order to secure Luca's power and Touraine's freedom."
     },
     {
       "id": 17,
       "title": "Astrid Parker Doesn't Fail",
-      "series": "Bright Falls #2",
+      "series": "Bright Falls",
+      "seriesPosition": 2,
+      "seriesId": 2,
       "authors": ["Ashley Herring Blake"],
       "genres": ["Romance", "Contemporary"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646147245i/58800142.jpg",
-      "Amazon": "https://amzn.to/4crcVTO"
+      "Amazon": "https://amzn.to/4crcVTO",
+      "description":"For Astrid Parker, failure is unacceptable. Ever since she broke up with her fiancé a year ago, she’s been focused on her career—her friends might say she’s obsessed, but she’s just driven. When Pru Everwood asks her to be the designer for the Everwood Inn’s renovation that will be broadcasted on a popular home improvement show, Innside America, Astrid knows this is the answer to everything that is wrong with her life. It’ll be the perfect distraction from her failed love life, and her perpetually displeased mother might finally give her nod of approval. \n\nHowever, Astrid never planned on Jordan Everwood, Pru’s granddaughter and lead carpenter for the inn’s renovation, who despises every modern design decision Astrid makes. Jordan is determined to preserve the history of her family’s inn, particularly as the rest of her life is in shambles. When that determination turns into a little light sabotage, ruffling Astrid’s perfect little feathers, the showrunners ask them to play up the tension. But somewhere along the way, their dislike for each other turns into something quite different, and Astrid must decide what success truly means. Is she going to pursue the life that she’s expected to lead, or the one she wants?"
     },
     {
       "id": 18,
       "title": "Iris Kelly Doesn't Date",
-      "series": "Bright Falls #3",
+      "series": "Bright Falls",
+      "seriesPosition": 2,
+      "seriesId": 2,      
       "authors": ["Ashley Herring Blake"],
       "genres": ["Romance", "Contemporary"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675361271i/61087733.jpg",
-      "Amazon": "https://amzn.to/46JnFvL"
+      "Amazon": "https://amzn.to/46JnFvL",
+      "description": "Everyone around Iris Kelly is in love. Her best friends are all coupled up, her siblings have partners that are perfect for them, her parents are still in marital bliss. And she’s happy for all of them, truly. So what if she usually cries in her Lyft on the way home. So what if she misses her friends, who are so busy with their own wonderful love lives, they don’t really notice Iris is spiraling. At least she has a brand-new career writing romance novels (yes, she realizes the irony of it). She is now working on her second book but has one problem: she is completely out of ideas after having spent all of her romantic energy on her debut. \n\nPerfectly happy to ignore her problems as per usual, Iris goes to a bar in Portland and meets a sexy stranger, Stefania, and a night of dancing and making out turns into the worst one-night stand Iris has had in her life (vomit and crying are regretfully involved). To get her mind off everything and overcome her writer's block, Iris tries out for a local play, but comes face-to-face with Stefania—or, Stevie, her real name. When Stevie desperately asks Iris to play along as her girlfriend, Iris is shocked, but goes along with it because maybe this fake relationship will actually get her creative juices flowing and she can get her book written. As the two women play the part of a couple, they turn into a constant state of hot-and-bothered and soon it just comes down to who will make the real first move…"
     },
     {
       "id": 19,
@@ -170,12 +200,15 @@
       "authors": ["Casey McQuiston"],
       "genres": ["Romance", "Time Travel", "Contemporary"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598019346i/54860443.jpg",
-      "amazon": "https://amzn.to/3X9vLdX"
+      "amazon": "https://amzn.to/3X9vLdX",
+      "description": "For cynical twenty-three-year-old August, moving to New York City is supposed to prove her right: that things like magic and cinematic love stories don’t exist, and the only smart way to go through life is alone. She can’t imagine how waiting tables at a 24-hour pancake diner and moving in with too many weird roommates could possibly change that. And there’s certainly no chance of her subway commute being anything more than a daily trudge through boredom and electrical failures. \n\nBut then, there’s this gorgeous girl on the train. \n\nJane. Dazzling, charming, mysterious, impossible Jane. Jane with her rough edges and swoopy hair and soft smile, showing up in a leather jacket to save August’s day when she needed it most. August’s subway crush becomes the best part of her day, but pretty soon, she discovers there’s one big problem: Jane doesn’t just look like an old school punk rocker. She’s literally displaced in time from the 1970s, and August is going to have to use everything she tried to leave in her own past to help her. Maybe it’s time to start believing in some things, after all."
     },
     {
       "id": 20,
       "title": "Faebound",
-      "series": "Faebound #1",
+      "series": "Faebound",
+      "seriesPosition": 1,
+      "seriesId": 6,
       "authors": ["Saara El-Arifi"],
       "genres": ["Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1695755226i/157981739.jpg",
@@ -188,23 +221,26 @@
       "authors": ["Julia Armfield"],
       "genres": ["Horror", "Literary Fiction"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1722881053i/58659343.jpg",
-      "amazon": "https://amzn.to/3YP3hHw"
+      "amazon": "https://amzn.to/3YP3hHw",
+      "description": "Miri thinks she has got her wife back, when Leah finally returns after a deep-sea mission that ended in catastrophe. It soon becomes clear, though, that Leah is not the same. Whatever happened in that vessel, whatever it was they were supposed to be studying before they were stranded on the ocean floor, Leah has brought part of it back with her, onto dry land and into their home. \n\nMoving through something that only resembles normal life, Miri comes to realize that the life that they had before might be gone. Though Leah is still there, Miri can feel the woman she loves slipping from her grasp."
     },
     {
       "id": 22,
       "title": "Life in Bits",
       "authors": ["Harper Bliss"],
-      "genres": ["Romance", "Contemporary"],
+      "genres": ["Romance", "Contemporary", "Holiday"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544559154i/43198819.jpg",
-      "amazon": "https://amzn.to/3yxzybv"
+      "amazon": "https://amzn.to/3yxzybv",
+      "description": "Eileen Makenna is a Pulitzer Prize winning photographer who has traveled the world for over two decades, chasing the next big story. She returns home for the holidays shattered by a life-altering event and facing the terrifying prospect she'll never be able to work again. \n\nWhen Eileen meets Naomi Weaver, a small-town girl who dedicates her free time to helping those in need, Eileen is entranced by Naomi's zest for life. Can Eileen overcome her inner demons and troubled family relationships to let Naomi in?"
     },
     {
       "id": 23,
       "title": "Kiss Her Once For Me",
       "authors": ["Alison Cochrun"],
-      "genres": ["Romance", "Contemporary"],
+      "genres": ["Romance", "Contemporary", "Holiday"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664988561i/60321485.jpg",
-      "amazon": "https://amzn.to/4e4QhSH"
+      "amazon": "https://amzn.to/4e4QhSH",
+      "description": "One year ago, recent Portland transplant Ellie Oliver had her dream job in animation and a Christmas Eve meet-cute with a woman at a bookstore that led her to fall in love over the course of a single night. But after a betrayal the next morning and the loss of her job soon after, she finds herself adrift, alone, and desperate for money. \n\nFinding work at a local coffee shop, she’s just getting through the days—until Andrew, the shop’s landlord, proposes a shocking, drunken plan: a marriage of convenience that will give him his recent inheritance and alleviate Ellie’s financial woes and isolation. They make a plan to spend the holidays together at his family cabin to keep up the ruse. But when Andrew introduces his new fiancée to his sister, Ellie is shocked to discover it’s Jack—the mysterious woman she fell for over the course of one magical Christmas Eve the year before. Now, Ellie must choose between the safety of a fake relationship and the risk of something real."
     },
     {
       "id": 24,
@@ -212,15 +248,170 @@
       "authors": ["Kelly Barnhill"],
       "genres": ["Fantasy", "Historical Fiction"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636583955i/58783802.jpg",
-      "amazon": "https://amzn.to/3Atwq0K"
+      "amazon": "https://amzn.to/3Atwq0K",
+      "description": "Alex Green is a young girl in a world much like ours, except for its most seminal event: the Mass Dragoning of 1955, when hundreds of thousands of ordinary wives and mothers sprouted wings, scales, and talons; left a trail of fiery destruction in their path; and took to the skies. Was it their choice? What will become of those left behind? Why did Alex’s beloved aunt Marla transform but her mother did not? Alex doesn’t know. It’s taboo to speak of. \n\nForced into silence, Alex nevertheless must face the consequences of this astonishing event: a mother more protective than ever; an absentee father; the upsetting insistence that her aunt never even existed; and watching her beloved cousin Bea become dangerously obsessed with the forbidden."
     },
     {
       "id": 25,
       "title": "The Jasmine Throne",
-      "series": "The Burning Kingdoms #1",
+      "series": "Burning Kingdoms",
+      "seriesPosition": 1,
+      "seriesId": 7,
       "authors": ["Tasha Suri"],
       "genres": ["Fantasy"],
       "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603885729i/50523477.jpg",
-      "amazon": "https://amzn.to/3WN0Liw"
+      "amazon": "https://amzn.to/3WN0Liw",
+      "description": "Imprisoned by her dictator brother, Malini spends her days in isolation in the Hirana: an ancient temple that was once the source of the powerful, magical deathless waters — but is now little more than a decaying ruin. \n\nPriya is a maidservant, one among several who make the treacherous journey to the top of the Hirana every night to clean Malini’s chambers. She is happy to be an anonymous drudge, so long as it keeps anyone from guessing the dangerous secret she hides. \n\nBut when Malini accidentally bears witness to Priya’s true nature, their destinies become irrevocably tangled. One is a vengeful princess seeking to depose her brother from his throne. The other is a priestess seeking to find her family. Together, they will change the fate of an empire."
+    },
+    {
+      "id": 26,
+      "title": "The Oleander Sword",
+      "series": "Burning Kingdoms",
+      "seriesPosition": 2,
+      "seriesId": 7,
+      "authors": ["Tasha Suri"],
+      "genres": ["Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645092962i/53446712.jpg",
+      "amazon": "https://amzn.to/3AphMaM",
+      "description": "The prophecy of the nameless god—the words that declared Malini the rightful empress of Parijatdvipa—has proven a blessing and curse. She is determined to claim the throne that fate offered her. But even with rage in her heart and the army of loyal men by her side, deposing her brother is going to be a brutal and bloody fight. \n\nThe power of the deathless waters flows through Priya’s blood. Now a thrice born priestess and an Elder of Ahiranya, she dreams of seeing her country rid of the rot that plagues it: both Parijatdvipa's poisonous rule, and the blooming sickness that is spreading through all living things. But she doesn’t yet understand the truth of the magic she carries. \n\nTheir chosen paths once pulled them apart. But Malini and Priya's souls remain as entwined as their destinies. And saving their kingdom from those who would rather see it burn will come at a terrible price."
+    },
+    {
+      "id": 27,
+      "title": "The Lotus Empire",
+      "series": "Burning Kingdoms",
+      "seriesPosition": 3,
+      "seriesId": 7,
+      "authors": ["Tasha Suri"],
+      "genres": ["Fantasy"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1705078749i/59558627.jpg",
+      "amazon": "https://amzn.to/3XcujYh",
+      "description": "Malini has claimed her rightful throne as the empress of Parijatdvipa, just as the nameless gods prophesied. Now, in order to gain the support of the priesthood who remain loyal to the fallen emperor, she must consider a terrible bargain: Claim her throne and burn in order to seal her legacy—or find another willing to take her place on the pyre. \n\nPriya has survived the deathless waters and now their magic runs in her veins. But a mysterious yaksa with flowering eyes and a mouth of thorns lies beneath the waters. The yaksa promises protection for Ahiranya. But in exchange, she needs a sacrifice. And she's chosen Priya as the one to offer it. \n\nTwo women once entwined by fate now stand against each other. But when an ancient enemy rises to threaten their world, Priya and Malini will find themselves fighting together once more – to prevent their kingdoms, and their futures, from burning to ash."
+    },
+    {
+      "id": 28,
+      "title": "Even Though I Knew the End",
+      "authors": ["C.L. Polk"],
+      "genres": ["Fantasy", "Historical Fiction", "Romance"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646749133i/59807975.jpg",
+      "amazon": "https://amzn.to/4dx6BLO",
+      "description": "A magical detective dives into the affairs of Chicago's divine monsters to secure a future with the love of her life. This sapphic period piece will dazzle anyone looking for mystery, intrigue, romance, magic, or all of the above. \n\nAn exiled auspex who sold her soul to save her brother's life is offered one last job before serving an eternity in hell. When she turns it down, her client sweetens the pot by offering up the one payment she can't resist―the chance to have a future where she grows old with the woman she loves. \n\nTo succeed, she is given three days to track down the White City Vampire, Chicago's most notorious serial killer. If she fails, only hell and heartbreak await."
+    },
+    {
+      "id": 29,
+      "title": "Written in the Stars",
+      "series": "Written in the Stars",
+      "seriesPosition": 1,
+      "seriesId": 9,
+      "authors": ["Alexandria Bellefleur"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591711593i/51179990.jpg",
+      "amazon": "https://amzn.to/46QDGQt",
+      "description": "After a disastrous blind date, Darcy Lowell is desperate to stop her well-meaning brother from playing matchmaker ever again. Love—and the inevitable heartbreak—is the last thing she wants. So she fibs and says her latest set up was a success. Darcy doesn’t expect her lie to bite her in the ass. \n\nElle Jones, one of the astrologers behind the popular Twitter account, Oh My Stars, dreams of finding her soul mate. But she knows it is most assuredly not Darcy... a no-nonsense stick-in-the-mud, who is way too analytical, punctual, and skeptical for someone as free-spirited as Elle. When Darcy’s brother—and Elle's new business partner—expresses how happy he is that they hit it off, Elle is baffled. Was Darcy on the same date? Because... awkward. \n\nWhen Darcy begs Elle to play along, she agrees to pretend they’re dating to save face. But with a few conditions: Darcy must help Elle navigate her own overbearing family over the holidays and their arrangement expires on New Year’s Eve. The last thing they expect is to develop real feelings during a fake relationship. \n\nBut maybe opposites can attract when true love is written in the stars?"
+    },
+    {
+      "id": 30,
+      "title": "Hang the Moon",
+      "series": "Written in the Stars",
+      "seriesPosition": 2,
+      "seriesId": 9,
+      "authors": ["Alexandria Bellefleur"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605839801i/55004138.jpg",
+      "amazon": "https://amzn.to/3SSrrxa",
+      "description": "In a delightful follow-up to Written in the Stars , Alexandria Bellefleur delivers another queer rom-com about a hopeless romantic who vows to show his childhood crush that romance isn’t dead by recreating iconic dates from his favorite films... Brendon Lowell loves love. It’s why he created a dating app to help people find their one true pairing and why he’s convinced “the one” is out there, even if he hasn’t met her yet. Or... has he? When his sister's best friend turns up in Seattle unexpectedly, Brendon jumps at the chance to hang out with her. He’s crushed on Annie since they were kids, and the stars have finally aligned, putting them in the same city at the same time. Annie booked a spur-of-the-moment trip to Seattle to spend time with friends before moving across the globe. She’s not looking for love, especially with her best friend’s brother. Annie remembers Brendon as a sweet, dorky kid. Except, the 6-foot-4 man who shows up at her door is a certified Hot Nerd and Annie... wants him? Oh yes. Getting involved would be a terrible idea—her stay is temporary and he wants forever—but when Brendon learns Annie has given up on dating, he’s determined to prove that romance is real. Taking cues from his favorite rom-coms, Brendon plans to woo her with elaborate dates straight out of Nora Ephron’s playbook. The clock is ticking on Annie’s time in Seattle, and Brendon’s starting to realize romance isn’t just flowers and chocolate. But maybe real love doesn’t need to be as perfect as the movies... as long as you think your partner hung the moon."
+    },
+    {
+      "id": 31,
+      "title": "Count Your Lukcy Stars",
+      "series": "Written in the Stars",
+      "seriesPosition": 3,
+      "seriesId": 9,
+      "authors": ["Alexandria Bellefleur"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626451154i/58079450.jpg",
+      "amazon": "https://amzn.to/3SVBPUM",
+      "description": "Margot Cooper doesn’t do relationships. She tried and it blew up in her face, so she’ll stick with casual hookups, thank you very much. But now her entire crew has found \"the one\" and she’s beginning to feel like a fifth wheel. And then fate (the heartless bitch) intervenes. While touring a wedding venue with her engaged friends, Margot comes face-to-face with Olivia Grant—her childhood friend, her first love, her first… well, everything. It’s been ten years, but the moment they lock eyes, Margot’s cold, dead heart thumps in her chest. \n\nOlivia must be hallucinating. In the decade since she last saw Margot, her life hasn’t gone exactly as planned. At almost thirty, she’s been married... and divorced. However, a wedding planner job in Seattle means a fresh start and a chance to follow her dreams. Never in a million years did she expect her important new client’s Best Woman would be the one that got away. \n\nWhen a series of unfortunate events leaves Olivia without a place to stay, Margot offers up her spare room because she’s a Very Good Person. Obviously. It has nothing to do with the fact that Olivia is as beautiful as ever and the sparks between them still make Margot tingle. As they spend time in close quarters, Margot starts to question her no-strings stance. Olivia is everything she’s ever wanted, but Margot let her in once and it ended in disaster. Will history repeat itself or should she count her lucky stars that she gets a second chance with her first love? "
+    },
+    {
+      "id": 32,
+      "title": "Cleat Cute",
+      "authors": ["Meryl Wilsner"],
+      "genres": ["Romance", "Contemporary", "Sports"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673554566i/65214313.jpg",
+      "amazon": "https://amzn.to/3M9zXUG",
+      "description": "Grace Henderson has been a star of the US Women’s National Team for ten years, even though she’s only 26. But when she’s sidelined with an injury, a bold new upstart, Phoebe Matthews, takes her spot. Phoebe is everything Grace isn’t—a gregarious jokester who plays with a joy that Grace lost somewhere along the way. The last thing Grace expects is to become friends with benefits with this class clown she sees as her rival. \n\nPhoebe Matthews has always admired Grace’s skill and was star struck to be training alongside her idol. But she quickly finds herself looking at Grace as more than a mere teammate. After one daring kiss, she’s hooked. Grace is everything she has been waiting to find. \n\nAs the World Cup approaches, and Grace works her way back from injury, the women decide to find a way they can play together instead of vying for the same position. Except, when they are off the field, Grace is worried she’s catching feelings while Phoebe thinks they are dating. As the tension between them grows, will both players realize they care more about their relationship than making the roster?"
+    },
+    {
+      "id": 33,
+      "title": "On the Same Page",
+      "authors": ["Haley Cass"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691120514i/195096868.jpg",
+      "amazon": "https://amzn.to/3YTnmwu",
+      "description": "Riley Beckett met Gianna Mäkinen – drop-dead gorgeous influencer, trilingual, daughter of world-famous models, yes, that Gianna Mäkinen – their first year at Boston University, and it changed everything for the both of them. After all, when you find the person who just gets you, nothing feels quite \"the same\" right? \n\nAnd in the ten years since, Riley has come to depend on Gianna more than anyone else in her life. She knows Gianna just as well as she knows herself – maybe better, some days. She knows Gianna is incredibly sex-positive, she knows Gianna doesn't do romance or relationships, and she knows nothing could ever come between them. \n\nThis is what makes sense to her, all of this is status-quo. But when a holiday party mix-up sets in motion a domino effect of changes to these previously inalienable truths, Riley has to question everything she thought she knew about their relationship. What, exactly, does Gianna mean to her after all?"
+    },
+    {
+      "id": 34,
+      "title": "Here We Go Again",
+      "authors": ["Alison Cochrun"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687105656i/176443353.jpg",
+      "amazon": "https://amzn.to/4dSy0Ia",
+      "description": "A long time ago, Logan Maletis and Rosemary Hale used to be friends. They spent their childhood summers running through the woods, rebelling against their conservative small town, and dreaming of escaping. But then an incident the summer before high school turned them into bitter rivals. After graduation, they went ten years without speaking. \n\nNow in their thirties, Logan and Rosemary find they aren’t quite living the lives of adventure they imagined for themselves. Still in their small town and working as teachers at their alma mater, they’re both stuck in old patterns. Uptight Rosemary chooses security and stability over all else, working constantly, and her most stable relationship is with her label maker. Chaotic and impulsive Logan has a long list of misguided ex-lovers and an apathetic shrug she uses to protect herself from anything real. And as hard as they try to avoid each other—and their complicated past—they keep crashing into each other. Including with their cars. \n\nBut when their beloved former English teacher and lifelong mentor tells them he has only a few months to live, they’re forced together once and for all to fulfill his last a cross-country road trip. Stuffed into the gayest van west of the Mississippi, the three embark on a life-changing summer trip—from Washington state to the Grand Canyon, from the Gulf Coast to coastal Maine—that will chart a new future and perhaps lead them back to one another."
+    },
+    {
+      "id": 35,
+      "title": "How You Get the Girl",
+      "authors": ["Anita Kelly"],
+      "genres": ["Romance", "Sports", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686273915i/173404080.jpg",
+      "amazon": "https://amzn.to/3Xb8Kat",
+      "description": "When smart-mouthed Vanessa Lerner joins the high school basketball team Julie Parker coaches, Julie’s ready for the challenge. What she’s not ready for is Vanessa’s new foster parent, Elle Cochrane—former University of Tennessee basketball star. While star-struck at first, soon Julie persuades Elle to step into the unfilled position of assistant coach for the year. \n\nEven though Elle has stayed out of the basketball world since an injury ended her short-lived WNBA career, the gig might be a way to become closer to Vanessa—and to spend more time with Julie, who makes Elle laugh. As the coaches grow closer, Elle has a hard time understanding how Julie is single. When Julie reveals her lifelong insecurity about dating and how she wishes it was more like sports—being able to practice first—it sparks an intriguing idea. While Elle still doubts her abilities as a basketball coach, helping Julie figure out dating is definitely something she can do. But as the basketball season progresses, and lines grow increasingly blurred, Julie and Elle must decide to join the game—or retreat to the sidelines."
+    },
+    {
+      "id": 36,
+      "title": "Love & Other Disasters",
+      "authors": ["Anita Kelly"],
+      "genres": ["Romance", "Contemporary"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620081191i/55297669.jpg",
+      "amazon": "https://amzn.to/3AFIhsA",
+      "description": "Recently divorced and on the verge of bankruptcy, Dahlia Woodson is ready to reinvent herself on the popular reality competition show Chef’s Special. Too bad the first memorable move she makes is falling flat on her face, sending fish tacos flying—not quite the fresh start she was hoping for. Still, she's focused on winning, until she meets someone she might want a future with more than she needs the prize money. \n\nAfter announcing their pronouns on national television, London Parker has enough on their mind without worrying about the klutzy competitor stationed in front of them. They’re there to prove the trolls—including a fellow contestant and their dad—wrong, and falling in love was never part of the plan. \n\nAs London and Dahlia get closer, reality starts to fall away. Goodbye, guilt about divorce, anxiety about uncertain futures, and stress from transphobia. Hello, hilarious shenanigans on set, wedding crashing, and spontaneous dips into the Pacific. But as the finale draws near, Dahlia and London’s steamy relationship starts to feel the heat both in and outside the kitchen—and they must figure out if they have the right ingredients for a happily ever after."
+    },
+    {
+      "id": 37,
+      "title": "The Long Way to a Small, Angry Planet",
+      "series": "Wayfarers",
+      "seriesPosition": 1,
+      "seriesId": 10,
+      "authors": ["Becky Chambers"],
+      "genres": ["Science Fiction", "Space Opera"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459111841i/27213244.jpg",
+      "amazon": "https://amzn.to/4fVMPvl",
+      "description": "Follow a motley crew on an exciting journey through space—and one adventurous young explorer who discovers the meaning of family in the far reaches of the universe—in this light-hearted debut space opera from a rising sci-fi star. \n\nRosemary Harper doesn’t expect much when she joins the crew of the aging Wayfarer. While the patched-up ship has seen better days, it offers her a bed, a chance to explore the far-off corners of the galaxy, and most importantly, some distance from her past. An introspective young woman who learned early to keep to herself, she’s never met anyone remotely like the ship’s diverse crew, including Sissix, the exotic reptilian pilot, chatty engineers Kizzy and Jenks who keep the ship running, and Ashby, their noble captain. \n\nLife aboard the Wayfarer is chaotic and crazy—exactly what Rosemary wants. It’s also about to get extremely dangerous when the crew is offered the job of a lifetime. Tunneling wormholes through space to a distant planet is definitely lucrative and will keep them comfortable for years. But risking her life wasn’t part of the plan. In the far reaches of deep space, the tiny Wayfarer crew will confront a host of unexpected mishaps and thrilling adventures that force them to depend on each other. To survive, Rosemary’s got to learn how to rely on this assortment of oddballs—an experience that teaches her about love and trust, and that having a family isn’t necessarily the worst thing in the universe."
+    },
+    {
+      "id": 38,
+      "title": "A Closed and Common Orbit",
+      "series": "Wayfarers",
+      "seriesPosition": 2,
+      "seriesId": 10,
+      "authors": ["Becky Chambers"],
+      "genres": ["Science Fiction", "Space Opera"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469812118i/30653753.jpg",
+      "amazon": "https://amzn.to/46X8bV6",
+      "description": "Embark on an exciting, adventurous, and dangerous journey through the galaxy with the motley crew of the spaceship Wayfarer in this fun and heart-warming space opera—the sequel to the acclaimed The Long Way to a Small, Angry Planet. \n\nLovelace was once merely a ship’s artificial intelligence. When she wakes up in a new body, following a total system shut-down and reboot, she has no memory of what came before. As Lovelace learns to negotiate the universe and discover who she is, she makes friends with Pepper, an excitable engineer, who’s determined to help her learn and grow. \n\nTogether, Pepper and Lovey will discover that no matter how vast space is, two people can fill it together."
+    },
+    {
+      "id": 39,
+      "title": "Record of a Spaceborn Few",
+      "series": "Wayfarers",
+      "seriesPosition": 3,
+      "seriesId": 10,
+      "authors": ["Becky Chambers"],
+      "genres": ["Science Fiction", "Space Opera"],
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626027310i/36278177.jpg",
+      "amazon": "https://amzn.to/3yU2332",
+      "description": "Return to the sprawling universe of the Galactic Commons, as humans, artificial intelligence, aliens, and some beings yet undiscovered explore what it means to be a community in this exciting third adventure in the acclaimed and multi-award-nominated science fiction Wayfarers series, brimming with heartwarming characters and dazzling space adventure. \n\nHundreds of years ago, the last humans on Earth boarded the Exodus Fleet in search of a new home among the stars. After centuries spent wandering empty space, their descendants were eventually accepted by the well-established species that govern the Milky Way. \n\nBut that was long ago. Today, the Exodus Fleet is a living relic, the birthplace of many, yet a place few outsiders have ever visited. While the Exodans take great pride in their original community and traditions, their culture has been influenced by others beyond their bulkheads. As many Exodans leave for alien cities or terrestrial colonies, those who remain are left to ponder their own lives and futures: What is the purpose of a ship that has reached its destination? Why remain in space when there are habitable worlds available to live? What is the price of sustaining their carefully balanced way of life—and is it worth saving at all? \n\nA young apprentice, a lifelong spacer with young children, a planet-raised traveler, an alien academic, a caretaker for the dead, and an Archivist whose mission is to ensure no one’s story is forgotten, wrestle with these profound universal questions. The answers may seem small on the galactic scale, but to these individuals, it could mean everything."
     }
   ]
+  

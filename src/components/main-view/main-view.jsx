@@ -12,9 +12,13 @@ const genres = [
   'Horror', 
   'Dystopian', 
   'Science Fiction', 
+  "Space Opera",
   'Spicy',
   'Contemporary',
   'Historical Fiction',
+  'Holiday',
+  "Time Travel",
+  "Sports",
   'All'
 ];
 

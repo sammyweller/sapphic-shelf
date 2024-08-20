@@ -7,6 +7,10 @@
   --button-bg: rgba(163, 3, 98, 0.1);
 }
 
+html, body {
+  scroll-behavior: auto !important; 
+}
+
 h1, h2, h3, h4, h5 {
   font-family: "Outfit", sans-serif;
   font-style: normal;
@@ -42,6 +46,11 @@ body h2 {
  text-align: center;
  font-weight: bold;
  border: none;
+ transition: background-color 0.3s ease, color 0.3s ease; 
+}
+
+.button:hover {
+  background: var(--light-pink);
 }
 
 /* Nav */

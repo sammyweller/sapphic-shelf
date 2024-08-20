@@ -39,8 +39,20 @@ max-width: 800px;
 
 .filtered-books {
     margin-top: 60px;
+    overflow: hidden;
+    padding-bottom: 20px;
 }
 
 .custom-row-gap {
     row-gap: 30px;   
+}
+
+.end-message {
+    margin-top: 60px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.loading-more {
+    margin-top: 40px;
 }

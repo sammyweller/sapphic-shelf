@@ -1,16 +1,19 @@
+
+
 .book-view {
     max-width: 1000px;
     margin: 0 auto;
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    margin-top: 60px;
+    margin-top: 80px;
     margin-bottom: 80px;
-    gap: 40px;
+    gap: 20px;
 }
 
-.book-view-cover {
-    align-items: center;
+.book-view-top {
     display: flex;
+    gap: 40px;
 }
 
 .book-view-cover img {
@@ -52,4 +55,47 @@
     border-radius: 20px;
     padding: 4px 8px;
     font-size: 14px;
+  }
+
+  .series-section {
+    margin-top: 60px;
+  }
+
+  .series-section h2 {
+    margin-bottom: 30px;
+  }
+
+  .series-books-list {
+    display: flex;
+    margin:auto;
+    padding-left: 0;
+    gap: 40px;
+  }
+
+  .series-books-list li {
+    list-style: none;
+  }
+
+  .series-info {
+    color: var(--dark-pink);
+    font-weight: 800;
+  }
+
+  .local-bookstore {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .local-bookstore::after {
+    content: '➔'; 
+    position: absolute;
+    margin-left: 7px; 
+    transition: transform 0.3s ease;
+  }
+  
+  .local-bookstore:hover::after {
+    transform: translateX(3px); 
   }

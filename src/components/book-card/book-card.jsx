@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { FaSkull, FaHeart, FaSpaceShuttle, FaBook, FaFeather, FaBiohazard, FaPepperHot, FaDragon, FaCity, FaStar } from 'react-icons/fa';
+import { FaSkull, FaHeart, FaSpaceShuttle, FaBook, FaFeather, FaBiohazard, FaPepperHot, FaDragon, FaCity, FaStar, FaSnowflake, FaClock, FaFootballBall } from 'react-icons/fa';
 import './book-card.css'; 
 
 const genreIcons = {
@@ -13,7 +13,10 @@ const genreIcons = {
   "Contemporary": <FaCity />,
   "Literary Fiction": <FaBook />,
   "Space Opera": <FaStar />,
-  "Spicy": <FaPepperHot />
+  "Spicy": <FaPepperHot />,
+  "Holiday": <FaSnowflake />,
+  "Time Travel": <FaClock />,
+  "Sports": <FaFootballBall />
 };
 
 function BookCard({ book }) {

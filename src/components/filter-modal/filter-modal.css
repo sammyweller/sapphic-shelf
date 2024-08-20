@@ -9,9 +9,55 @@
     border: none;
 }
 
+.button.btn.btn-primary:hover {
+    background: var(--light-pink);
+  }
+
 input[type="checkbox"]:checked,
 input[type="checkbox"]:checked:focus,
 input[type="checkbox"]:checked:active,
 input[type="checkbox"]:checked:hover   {
     accent-color: var(--light-pink);
 }
+
+label {
+    margin-left: 10px;
+}
+
+.modal .modal-dialog {
+    width: 60%;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+
+
+@media (max-width: 1000px) {
+    .modal .modal-dialog {
+        width: 80%;
+    }
+}
+
+
+@media (max-width: 650px) {
+    .modal .modal-dialog {
+        width: 90%;
+    }
+    .form-options {
+        margin-bottom: 20px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 20px;
+    }
+}
+
+@media (max-width: 450px) {
+    .form-options {
+        margin-bottom: 20px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 20px;
+    }
+}
+
+
