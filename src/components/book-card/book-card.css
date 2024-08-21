@@ -83,3 +83,15 @@
     opacity: 1;
   }
   /* End Tool Tip */
+
+
+
+  @media (max-width: 500px) {
+    .book-card {
+      width: 280px;
+    }
+
+    .book-cover {
+      height: 100%;
+    }
+  }

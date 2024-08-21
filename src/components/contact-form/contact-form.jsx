@@ -19,7 +19,6 @@ function ContactForm() {
         <p className="success-message">Thanks for reaching out! We'll be in touch shortly.</p>
       )}
 
-      {/* Form */}
       {!state.succeeded && (
         <form onSubmit={handleSubmit} className="contact-form">
           <div className="form-group">

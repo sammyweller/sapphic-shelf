@@ -3,4 +3,9 @@
     margin: auto;
     margin-top: 80px;
     margin-bottom: 60px;
+    padding: 0 20px;
+}
+
+.about-us-section h1 {
+    margin-bottom: 20px;
 }
