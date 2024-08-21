@@ -2,15 +2,32 @@ import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import books from '../../data/books.json';
 import BookCard from '../book-card/book-card';
+import { FaSkull, FaHeart, FaSpaceShuttle, FaBook, FaFeather, FaBiohazard, FaPepperHot, FaDragon, FaCity, FaStar, FaSnowflake, FaClock, FaFootballBall } from 'react-icons/fa';
 import './book-view.css';
+
+const genreIcons = {
+  "Horror": <FaSkull />,
+  "Romance": <FaHeart />,
+  "Science Fiction": <FaSpaceShuttle />,
+  "Fantasy": <FaDragon />,
+  "Historical Fiction": <FaFeather />,
+  "Dystopian": <FaBiohazard />,
+  "Contemporary": <FaCity />,
+  "Literary Fiction": <FaBook />,
+  "Space Opera": <FaStar />,
+  "Spicy": <FaPepperHot />,
+  "Holiday": <FaSnowflake />,
+  "Time Travel": <FaClock />,
+  "Sports": <FaFootballBall />
+};
 
 function BookView() {
   const { id } = useParams(); // Get the book ID from the URL
   const book = books.find(book => book.id === parseInt(id)); // Find the book by ID
 
-    useEffect(() => {
-      window.scrollTo(0, 0);
-    }, [id]);
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [id]);
 
   if (!book) {
     return <div>Book not found</div>;
@@ -35,6 +52,17 @@ function BookView() {
             </p>
           )}
           <div className="book-view-description">
+            <p className="book-view-genres">
+              <span className="genre-bubbles">
+                For fans of:
+                {book.genres.map((genre, index) => (
+                  <span key={index} className="genre-bubble">
+                    {genreIcons[genre]} {/* Display the icon */}
+                    {genre} {/* Display the genre name */}
+                  </span>
+                ))}
+              </span>
+            </p>
             {book.description
               ? book.description.split('\n\n').map((paragraph, index) => (
                 <p key={index}>{paragraph}</p>
@@ -42,14 +70,6 @@ function BookView() {
               : <p>No description available.</p>  /* Fallback if description is undefined */
             }
           </div>
-          <p className="book-view-genres">
-            <span className="genre-bubbles">
-              For fans of:
-              {book.genres.map((genre, index) => (
-                <span key={index} className="genre-bubble">{genre}</span>
-              ))}
-            </span>
-          </p>
           <div className="buy-book">
             <a href={book.amazon} target="_blank" rel="noopener noreferrer" className="button">
               Buy on Amazon

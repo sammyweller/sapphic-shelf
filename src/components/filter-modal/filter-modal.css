@@ -7,6 +7,8 @@
     text-align: center;
     font-weight: bold;
     border: none;
+    font-family: "Outfit", sans-serif;
+
 }
 
 .button.btn.btn-primary:hover {
@@ -28,6 +30,10 @@ label {
     width: 60%;
     margin: 0 auto;
     max-width: 800px;
+}
+
+.modal-header, .modal-body {
+    font-family: "Outfit", sans-serif;
 }
 
 
