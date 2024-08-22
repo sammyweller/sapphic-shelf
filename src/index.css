@@ -35,10 +35,6 @@ body h2 {
   margin-bottom: 40px;
 }
 
-.container {
-  max-width: none !important;
-  padding: 0;
-}
 /* Button */
 .button {
  padding: 10px 20px;

@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useEffect }  from 'react';
 import { useForm, ValidationError } from '@formspree/react';
 import './contact-form.css'; 
 
 function ContactForm() {
   const [state, handleSubmit] = useForm("mjkbayjn");
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <div className="contact-form-section">
@@ -11,7 +15,7 @@ function ContactForm() {
         Let's chat!
       </h1>
       <p>
-        Want us to add your favorite book? Saw something on our site that needs correcting? Just want to chat? Reach out today and we'll get back to you as soon as we can.
+        Want us to add your favorite book? Saw something on our site that needs correcting? Just want to chat? Fill out the form below and we'll get back to you as soon as we can.
       </p>
 
       {/* Conditional Success Message */}

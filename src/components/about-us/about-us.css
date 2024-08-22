@@ -9,3 +9,13 @@
 .about-us-section h1 {
     margin-bottom: 20px;
 }
+
+.about-us-section  a {
+    text-decoration: none;
+    color: var(--dark-pink);
+    font-weight: bold;
+}
+
+.about-us-section  a:hover {
+    color: var(--light-pink);
+}

@@ -11,7 +11,7 @@ import "./index.css";
 function BookApp() {
   return (
     <Router>
-      <Container>
+      <Container className="main-container">
         <nav>
           {/* <div className="home-message">
             <p>
@@ -34,6 +34,13 @@ function BookApp() {
           <Route path="/about-us" element={<AboutUs />} />
           <Route path="/contact-form" element={<ContactForm />} />
         </Routes>
+
+
+        <footer className="footer">
+          <p>
+            <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a>
+          </p>
+        </footer>
       </Container>
     </Router>
   );
