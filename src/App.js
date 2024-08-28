@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { FaEnvelope } from 'react-icons/fa'
 import Container from 'react-bootstrap/Container';
 import MainView from './components/main-view/main-view';
 import BookView from './components/book-view/book-view';
@@ -36,11 +37,17 @@ function BookApp() {
         </Routes>
 
 
-        {/* <footer className="footer">
-          <p>
-            <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a>
-          </p>
-        </footer> */}
+        <footer className="footer">
+          <div className="main-footer">
+            <div>
+              <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a>
+            </div>
+            <div>
+            <FaEnvelope />
+            </div>
+           </div>
+
+        </footer>
       </Container>
     </Router>
   );

@@ -11,6 +11,12 @@ html, body {
   scroll-behavior: auto !important; 
 }
 
+.container {
+  max-width: none !important;
+  padding: 0 !important;
+
+}
+
 a, span, h1, h2, h3, h4, h5, body, p {
   font-family: "Outfit", sans-serif;
 }
@@ -98,19 +104,25 @@ nav ul a:hover {
   color: var(--light-pink);
 }
 
-.home-message {
-  margin: auto;
-  text-align: center;
-  background-color: var(--dark-pink);
-  max-width: none;
-  padding: 8px 10px;
+
+/* Footer */
+
+.footer {
+  margin-bottom: 40px;
+  background:  var(--text);;
+  margin: 0;
+  padding: 0;
 }
 
-.home-message p {
-  margin: auto;
-  text-align: center;
-  max-width: none;
+.main-footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto; 
+  max-width: 1000px;
+  padding: 20px;
   color: white;
-  font-weight: bold;
-  font-size: 14px;
+}
+
+.main-footer a {
+  color: white;
 }
