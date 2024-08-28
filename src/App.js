@@ -36,11 +36,11 @@ function BookApp() {
         </Routes>
 
 
-        <footer className="footer">
+        {/* <footer className="footer">
           <p>
             <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a>
           </p>
-        </footer>
+        </footer> */}
       </Container>
     </Router>
   );
