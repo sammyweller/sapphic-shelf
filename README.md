@@ -1,7 +1,8 @@
 # To do: 
 
 - Change url for individual books so it's title instead of id
-- Add footer 
+- Fix footer 
+- Add "back to top" icon on homepage
 - Add more books!
 
 <!-- # Getting Started with Create React App
