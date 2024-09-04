@@ -6,28 +6,35 @@ import MainView from './components/main-view/main-view';
 import BookView from './components/book-view/book-view';
 import AboutUs from './components/about-us/about-us';
 import ContactForm from './components/contact-form/contact-form';
+import { Navbar, Nav } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./index.css";
 
 function BookApp() {
+
   return (
     <Router>
       <Container className="main-container">
-        <nav>
-          {/* <div className="home-message">
-            <p>
-              A banner announcement can go here.
-            </p>
-          </div> */}
-          <div>
-            <a className="nav-logo" href="/"><span>Sapphic</span> Shelf</a>
-            <ul>
-              <li><a href="/">Home</a></li>
-              <li><a href="/about-us">About</a></li>
-              <li><a href="/contact-form">Contact</a></li>
-            </ul>
-          </div>
-        </nav>
+      <Navbar bg="white" expand="lg" className="main-navbar"  style={{ 
+        margin: 'auto',
+        background: 'white',
+        padding: '20px 40px',
+        fontFamily: '"Outfit", sans-serif;'
+         }}>
+      <Navbar.Brand className="navbar-brand" href="/" style={{ 
+          fontSize: '38px',
+          fontWeight: '800',
+          color: '#212529'
+         }}>Sapphic <span>Shelf</span></Navbar.Brand>
+      <Navbar.Toggle aria-controls="basic-navbar-nav" />
+      <Navbar.Collapse id="basic-navbar-nav" className="navbar-list">
+        <Nav className="mr-auto">
+          <Nav.Link className="nav-link" href="/">Home</Nav.Link>
+          <Nav.Link className="nav-link" href="/about-us">About</Nav.Link>
+          <Nav.Link className="nav-link" href="/contact-form">Contact</Nav.Link>
+        </Nav>
+      </Navbar.Collapse>
+    </Navbar>
 
         <Routes>
           <Route path="/" element={<MainView />} />

@@ -63,24 +63,24 @@ body h2 {
 /* Nav */
 
 
-nav div {
+.main-navbar {
   max-width: 1000px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   margin: auto;
-  padding: 20px ;
+  display:flex;
+  padding: 20px 40px; 
+  margin: 0 20px;
 }
 
-nav ul {
+.navbar-list {
   display:flex;
   list-style: none;
   gap: 20px;
   align-items: center;
   margin-bottom: 0;
+  justify-content: flex-end;
 }
 
-nav ul a {
+.nav-link {
   font-weight: 600;
   text-decoration: none;
   font-family: "Outfit", sans-serif;
@@ -88,21 +88,15 @@ nav ul a {
   color: var(--text);
 } 
 
-nav ul a:hover {
+.nav-link:hover {
   color: var(--light-pink);
 }
 
-.nav-logo {
-  text-decoration: none;
-  font-family: "Outfit", sans-serif;
-  font-size: 38px;
-  font-weight:800;
-  color: var(--text);
-}
 
-.nav-logo span {
+.navbar-brand span {
   color: var(--light-pink);
 }
+
 
 
 /* Footer */
@@ -157,6 +151,7 @@ nav ul a:hover {
   .nav-logo {
     font-size: 28px;
   }
+
 
 }
 
