@@ -129,4 +129,8 @@
   .book-view {
     margin-top: 40px;
   }
+
+  .buy-book {
+    gap: 10px;
+  }
 }
