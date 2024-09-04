@@ -136,6 +136,7 @@ body h2 {
 
 .main-footer a {
   color: white;
+  text-decoration: none;
 }
 
 .main-navbar .custom-toggler {
