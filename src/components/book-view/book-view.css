@@ -75,6 +75,7 @@
     margin:auto;
     padding-left: 0;
     gap: 40px;
+    flex-wrap: wrap;
   }
 
   .series-books-list li {
@@ -105,3 +106,27 @@
     transform: translateX(3px); 
   }
 
+
+
+
+@media (max-width: 768px) {
+  .book-view-top {
+    flex-direction: column-reverse;
+  }
+
+  .book-view-cover {
+    margin:auto;
+  }
+
+  .series-books-list {
+    justify-content: center;
+  }
+
+  .buy-book {
+    flex-wrap: wrap;
+  }
+
+  .book-view {
+    margin-top: 40px;
+  }
+}

@@ -126,3 +126,38 @@ nav ul a:hover {
 .main-footer a {
   color: white;
 }
+
+
+
+@media (max-width: 992px) {
+ body h1 {
+    font-size: 48px;
+  }
+
+  body h2 {
+    font-size: 40px;
+  }
+
+}
+
+
+@media (max-width: 768px) {
+  body h1 {
+    font-size: 38px;
+  }
+
+  body h2 {
+    font-size: 28px;
+  }
+
+  body p {
+    font-size: 20px;
+  }
+
+  .nav-logo {
+    font-size: 28px;
+  }
+
+}
+
+

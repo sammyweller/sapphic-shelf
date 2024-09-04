@@ -74,3 +74,10 @@ form button:hover {
     font-weight: bold;
     color: var(--dark-pink);
   }
+
+
+  @media (max-width: 768px) {
+    .contact-form-section {
+      margin-top: 40px;
+    }
+  }

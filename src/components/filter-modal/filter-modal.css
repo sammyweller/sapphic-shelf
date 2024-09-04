@@ -48,6 +48,7 @@ label {
 @media (max-width: 650px) {
     .modal .modal-dialog {
         width: 90%;
+        margin-top: 40px;
     }
     .form-options {
         margin-bottom: 20px;

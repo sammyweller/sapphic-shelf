@@ -47,3 +47,15 @@
     background-color: #f0f0f0;
   }
   
+
+  @media (max-width: 768px) {
+    .search-input {
+      width: 80%;
+      margin-bottom: 20px;
+    }
+
+    .suggestions-list {
+      width: 80%;
+
+    }
+  }
