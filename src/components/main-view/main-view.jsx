@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import AllBooks from '../all-books/all-books';
 import FilterModal from '../filter-modal/filter-modal';
 import SearchBar from '../search-bar/search-bar';
+import BackToTop from '../back-to-top/back-to-top'; 
+
 
 import booksData from '../../data/books.json'; 
 import './main-view.css'; 
@@ -97,6 +99,9 @@ function MainView() {
         handleGenreChange={handleGenreChange}
         handleSubmit={handleSubmit}
       />
+
+
+      <BackToTop />
     </div>
   );
 }

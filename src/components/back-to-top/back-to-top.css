@@ -1,0 +1,22 @@
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: var(--dark-pink);
+    color: #fff;
+    padding: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    transition: background-color 0.3s ease;
+  }
+  
+  .back-to-top:hover {
+    background-color: var(--light-pink);
+  }
