@@ -18,7 +18,7 @@ function AboutUs() {
                 What does the term 'Sapphic' mean?
             </h2>
             <p>
-                "<a href="https://lgbtqia.fandom.com/wiki/Sapphic" target="_blank" rel="noreferrer" >Sapphic</a> refers to a woman or woman-aligned person of any sexual orientation who is attracted to women or woman-aligned genders/gender identities. Another definition is specifically inclusive of non-binary people. It is an umbrella term for many identities, including those who are lesbian, pansexual, bisexual, or queer. It is used to promote solidarity among women and non-binary people of all identities who are attracted to those who are women and woman-aligned.""
+                "<a href="https://lgbtqia.fandom.com/wiki/Sapphic" target="_blank" rel="noreferrer" >Sapphic</a> refers to a woman or woman-aligned person of any sexual orientation who is attracted to women or woman-aligned genders/gender identities. Another definition is specifically inclusive of non-binary people. It is an umbrella term for many identities, including those who are lesbian, pansexual, bisexual, or queer. It is used to promote solidarity among women and non-binary people of all identities who are attracted to those who are women and woman-aligned."
             </p>
             <h2>
                 What's in store for Sapphic Shelf?
