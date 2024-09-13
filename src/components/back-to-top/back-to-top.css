@@ -2,21 +2,19 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: var(--dark-pink);
-    color: #fff;
-    padding: 25px;
-    border-radius: 50%;
+    background: var(--dark-pink);
+    border-radius: 100px;
+    padding: 10px;
     cursor: pointer;
-    font-size: 24px;
-    width: 40px;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 100;
-    transition: background-color 0.3s ease;
+    z-index: 1000;  
+  }
+
+  .back-to-top svg {
+    fill: white;
+    height: 30px;
+    width: 30px;
   }
   
   .back-to-top:hover {
-    background-color: var(--light-pink);
+    background: var(--light-pink);    
   }

@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import { FaArrowUp } from "react-icons/fa";
+
 import './back-to-top.css'; 
 
 const BackToTop = () => {
@@ -28,7 +30,7 @@ const BackToTop = () => {
   return (
     isVisible && (
       <div className="back-to-top" onClick={scrollToTop}>
-            &#9650; 
+            <FaArrowUp /> 
       </div>
     )
   );
